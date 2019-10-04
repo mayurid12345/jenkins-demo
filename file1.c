@@ -2,5 +2,5 @@
 int main()
 {
 printf("This is Jenkins test\n");
-exit 0;
+exit (0);
 }
